@@ -1,0 +1,12 @@
+Brittisk polis hittade olaglig bitcoingruva
+
+Brittisk polis var på jakt efter en möjlig cannabisodling när man i
+mitten av maj hittade en illegal bitcoingruva med omkring 100 datorer
+i ett industriområde i utkanten av Birmingham. Det skriver polisen i
+West Midlands i en uppdatering på sin hemsida. Verksamheten har stulit
+el från det fasta nätet för hundratusentals kronor, skriver CNBC.
+
+Den brytning, eller "mining", som sker i kryptosammanhang har
+ingenting med gruvdrift att göra. I stället handlar det om särskilda
+datorer som utformats för att lösa de komplexa matematiska ekvationer
+som ligger till grund för transaktioner i bitcoin-systemet.
